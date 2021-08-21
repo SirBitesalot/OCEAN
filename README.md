@@ -111,7 +111,10 @@ For optimal setup I recommend getting the newest ISAN code and doing the above r
 |Memorychip|Variables|
 |Memorychip|More variables|
 ## Setup
-The folderstructure enables you to quickly find the code you need for your setup. For the default setup in the "normal" game world use the "default" folder. For Testflights in the ssc use the "ssc" folder. Both contain subfolders for the continously running and the stoppable version. This guide assumes the stoppable version.
+Download the repositiory. The code is inside the src folder. It is split into two sub folders. 
+One "Default" this includes the code for the "normal" world OCEAN.
+The other one "SSC" contains the code for SSC/Testflight OCEAN.
+Both contain a version running continously and one that is stoppable. This guide handels the recommended stoppable setup.
  
 1. Place receivers as shown in the image
 
