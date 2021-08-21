@@ -58,8 +58,7 @@ The system needs the following fields  set in memory chips.
 |9|z coordinate ISAN3|Memorychip
 |h|Heading Value|Memorychip
 |q1|Attitude Valueinput|Memorychip
-|t|bank atan input|Memorychip
-|t1|Vank Value|Memorychip
+|t1|Bank Value|Memorychip
 |p1|"debug" variable for ISAN 2|Memorychip/Textpanel
 |p2|"debug" variable for ISAN 3|Memorychip/Textpanel
 
