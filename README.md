@@ -119,7 +119,7 @@ Download the repositiory. The code is inside the src folder. It is split into tw
 One "Default" this includes the code for the "normal" world OCEAN.
 The other one "SSC" contains the code for SSC/Testflight OCEAN.
 Both contain a version running continously and one that is stoppable. This guide handels the recommended stoppable setup.
- 
+ ".opt.yolol" files are optimized and thus harder to read because of that I also include non optimized version that are slightly easier to read. You only need to copy the ".opt.yolol" onto chips. If there is no ".opt.yolol" version that means I couldnt come up with an optimization that saved at leas one line.
 1. Place receivers as shown in the image
 
  ![Example with receiver numbering](https://i.imgur.com/GCQeCro.jpg)
