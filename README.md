@@ -5,11 +5,15 @@ The OCEAN system can calculate your ships current orientation for all three axis
 You will need to place three receivers on your ship so that they on the same plane. They can be placed on top bottom or inbetween on your ship just make sure there is no height difference between them. See the following image for an example.
 ![Example with receiver numbering](https://i.imgur.com/GCQeCro.jpg)
 The documentation will refer to the receivers and their corresponding ISAN module with the numbers shown above.
+
+Please report any issues you have. If something differs between SSC and "normal" world I forgto to flip things around as the x and z axis are flipped.
 ## Demo
 Long:
 https://youtu.be/2f8PTyunn_E
 Short:
 https://www.youtube.com/watch?v=azsX-w3OqR8
+
+The repository also includes a sample blueprint in the "samples" folder for quick testing.
 
 ## **Global Variables**
 The system need the following global variables/device fields
