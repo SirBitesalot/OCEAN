@@ -1,0 +1,15 @@
+h="Heading\n" i=0 j=1  o="OCEAN"
+n="\n" e="||" :_1=n+e a="Attitude\n"
+n="\n" e="|O|" :_1=n+e a="Attitude\n"
+n="\n" e="|OC|" :_1=n+e a="Attitude\n"
+n="\n" e="|OCE|" :_1=n+e a="Attitude\n"
+n="\n" e="|OCEA|" :_1=n+e a="Attitude\n"
+n="\n" e="|OCEAN|" :_1=n+e a="Attitude\n"
+n="\n" e="|OCEAN|" :_1=n+e a="Attitude\n"
+n="\n" e="|OCEA|" :_1=n+e a="Attitude\n"
+n="\n" e="|OCE|" :_1=n+e a="Attitude\n"
+n="\n" e="|OC|" :_1=n+e a="Attitude\n"
+n="\n" e="|O|" :_1=n+e a="Attitude\n"
+n="\n" e="||" :_1=n+e if(i<j) then i+=1 goto2 end
+d="°" b="Bank\n" :_1=o+n+h+:h+d+n+a+:q1+d+n+b+:t1+d goto14
+//github.com/SirBitesalot/OCEAN

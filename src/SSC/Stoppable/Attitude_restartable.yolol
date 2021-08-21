@@ -1,0 +1,5 @@
+a=401/7 b=0.28 goto2*:arun
+x=:4-((:4-:1)/2)-:7 y=:5-((:5-:2)/2)-:8 z=:6-((:6-:3)/2)-:9
+v=sqrt((x*x)+(z*z)) q=abs(y/v) g=q>1 x/=1-g+q*q*g 
+q=g*90+(1-2*g)*a*q/(1+b*q*q) ify <0then q=-q end :q1=q goto2*:arun
+//github.com/SirBitesalot/OCEAN

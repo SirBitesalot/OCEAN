@@ -1,0 +1,8 @@
+a=57.285 b=0.28 c=180 goto2*:br
+d=:1 e=:2 f=:3 g=:4 h=:5 i=:6 j=:7 k=:8 l=:9 m=(d+g)/2-j n=(e+h)/2-k
+o=(f+i)/2-l p=sqrt(m*m+n*n+n*n+o*o) m/=p n/=p o/=p q=g-d r=h-e s=i-f
+t=j-d u=l-f v=r*u-s*w x=s*t-q*u y=q*w-r*t p=sqrt(v*v+x*x+y*y) v/=p
+x/=p y/=p z=y*m-v*o :t1=aa aa=z/x aa=abs aa ab=aa>1 aa/=1-ab+aa*aa*ab
+aa=ab*90+(1-2*ab)*a*aa/(1+b*aa*aa) if(x<0)*(z<0)thenaa=-aa end
+if(x<0)*(z>0)thenaa=-ac+aa end if(x>0)*(z>0)thenaa=ac-aa end goto2*:br
+//github.com/SirBitesalot/OCEAN
