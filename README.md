@@ -141,7 +141,7 @@ Receiver3:
 4. Take three yolol chips and copy your modified ISAN code onto each one See "Chips section" and install them.
 5. Take an advanced yolol chips and copy the code from "Attitude_restartable.yolol" onto it and install the chip.
 6. Take an advanced yolol chips and copy the code from "bank_restartable.opt.yolol" onto it and install the chip.
-7. Take an advanced yolol chips and copy the code from "heading_restartable.opt.yolol" onto it and install the chip.
+7. Take an advanced yolol chips and copy the code from "heading_restartable.yolol" onto it and install the chip.
 8. Take a basic yolol chip and copy the code from "Display_restartable.yolol" onto it and install the chip.
 The chips could for example be installed as the following image show:
 ![Chip example](https://i.imgur.com/6QSmTlp.png)
