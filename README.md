@@ -114,7 +114,8 @@ For optimal setup I recommend getting the newest ISAN code and doing the above r
 |Memorychip|Variables|
 |Memorychip|More variables|
 ## Setup
-Download the repositiory. The code is inside the src folder. It is split into two sub folders. 
+Download the latest release [here](https://github.com/SirBitesalot/OCEAN/releases/latest) or clone the repository if you want work in progress changes as well.
+The code is inside the src folder. It is split into two sub folders. 
 One "Default" this includes the code for the "normal" world OCEAN.
 The other one "SSC" contains the code for SSC/Testflight OCEAN.
 Both contain a version running continously and one that is stoppable. This guide handels the recommended stoppable setup.
