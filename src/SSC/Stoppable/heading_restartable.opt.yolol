@@ -1,4 +1,4 @@
-a=57.285 b=0.28 c=180 d=-180 e=-1 q=360 x=270 goto2*:r
+a=57.285 b=0.28 c=180 d=-180 e=-1 q=360 x=450 goto2*:r
 f=:4-:1 g=:6-:3 h=f/g i=(g<0)*(f>0) j=(g>0)*(f<0) k=(g<0)*(f<0) v=2*:r
 r=(r+x)%q l=abs h m=l>1 l/=1-m+l*l*m l=m*90+(1-2*m)*a*l/(1+b*l*l) :h=r 
 ifi thenl=c-l end ifj thenl*=e end ifk thenl=d-l*e end r=(l+q)%q gotov
