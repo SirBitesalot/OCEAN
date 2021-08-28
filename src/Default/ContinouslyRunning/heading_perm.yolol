@@ -1,6 +1,6 @@
 a=401/7 b=0.28 c=180 d=-180 e=-1
-x=:4-((:4-:1)/2)-:7 z=:6-((:6-:3)/2)-:9 h=(x/z) h3=(z<0)*(x>0)
+z=:4-((:4-:1)/2)-:7 x=:6-((:6-:3)/2)-:9 h=(x/z) h3=(z<0)*(x>0)
 h4=(z>0)*(x<0) h5=(z<0)*(x<0) v=abs h g=v>1 v/=1-g+v*v*g
 v=g*90+(1-2*g)*a*v/(1+b*v*v) ifh3 thenv=c-v end ifh4 thenv*=e end
-ifh5 then v=d-(v*e) end :h=(v+360)%360 goto2
+ifh5 then v=d-(v*e) end :h=(v+630)%360 goto2
 //github.com/SirBitesalot/OCEAN 
